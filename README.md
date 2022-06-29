@@ -9,5 +9,5 @@ UAS Appmob
   <li> M. Rizky Davito </li>
 </ul>
 
-<iframe src="https://giphy.com/embed/3rgXBrLlRs4ZlpnVDO" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disney-go-team-air-bud-3rgXBrLlRs4ZlpnVDO">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3rgXBrLlRs4ZlpnVDO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/disney-go-team-air-bud-3rgXBrLlRs4ZlpnVDO">via GIPHY</a></p>
 

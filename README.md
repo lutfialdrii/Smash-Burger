@@ -9,5 +9,5 @@ UAS Appmob
   <li> M. Rizky Davito </li>
 </ul>
 
-<img src="https://giphy.com/embed/3rgXBrLlRs4ZlpnVDO" width="100%" height="100%"/>
+<img src="https://media0.giphy.com/media/3rgXBrLlRs4ZlpnVDO/giphy.gif?cid=ecf05e47dc0hnijbly1loza045fbj7chl28anigrmidkfvf3&rid=giphy.gif&ct=g" width="100%" height="100%"/>
 
